@@ -1,0 +1,15 @@
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\bin\Debug\netcoreapp3.1\CustomConsoleCommands.exe
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\bin\Debug\netcoreapp3.1\CustomConsoleCommands.deps.json
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\bin\Debug\netcoreapp3.1\CustomConsoleCommands.runtimeconfig.json
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\bin\Debug\netcoreapp3.1\CustomConsoleCommands.runtimeconfig.dev.json
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\bin\Debug\netcoreapp3.1\CustomConsoleCommands.dll
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\bin\Debug\netcoreapp3.1\CustomConsoleCommands.pdb
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\obj\Debug\netcoreapp3.1\CustomConsoleCommands.csprojAssemblyReference.cache
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\obj\Debug\netcoreapp3.1\CustomConsoleCommands.Main.resources
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\obj\Debug\netcoreapp3.1\CustomConsoleCommands.csproj.GenerateResource.cache
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\obj\Debug\netcoreapp3.1\CustomConsoleCommands.AssemblyInfoInputs.cache
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\obj\Debug\netcoreapp3.1\CustomConsoleCommands.AssemblyInfo.cs
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\obj\Debug\netcoreapp3.1\CustomConsoleCommands.csproj.CoreCompileInputs.cache
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\obj\Debug\netcoreapp3.1\CustomConsoleCommands.dll
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\obj\Debug\netcoreapp3.1\CustomConsoleCommands.pdb
+D:\Developement\C#\CustomConsoleCommands\CustomConsoleCommands\obj\Debug\netcoreapp3.1\CustomConsoleCommands.genruntimeconfig.cache
