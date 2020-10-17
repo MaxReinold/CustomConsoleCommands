@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Developement\\C#\\CustomConsoleCommands\\CustomConsoleCommands\\CustomConsoleCommands.csproj": {}
+    "D:\\Developement\\C#\\CustomConsoleCommands\\CustomConsoleCommands\\CustomConsoleCommands\\CustomConsoleCommands.csproj": {}
   },
   "projects": {
-    "D:\\Developement\\C#\\CustomConsoleCommands\\CustomConsoleCommands\\CustomConsoleCommands.csproj": {
+    "D:\\Developement\\C#\\CustomConsoleCommands\\CustomConsoleCommands\\CustomConsoleCommands\\CustomConsoleCommands.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Developement\\C#\\CustomConsoleCommands\\CustomConsoleCommands\\CustomConsoleCommands.csproj",
+        "projectUniqueName": "D:\\Developement\\C#\\CustomConsoleCommands\\CustomConsoleCommands\\CustomConsoleCommands\\CustomConsoleCommands.csproj",
         "projectName": "CustomConsoleCommands",
-        "projectPath": "D:\\Developement\\C#\\CustomConsoleCommands\\CustomConsoleCommands\\CustomConsoleCommands.csproj",
+        "projectPath": "D:\\Developement\\C#\\CustomConsoleCommands\\CustomConsoleCommands\\CustomConsoleCommands\\CustomConsoleCommands.csproj",
         "packagesPath": "C:\\Users\\thela\\.nuget\\packages\\",
-        "outputPath": "D:\\Developement\\C#\\CustomConsoleCommands\\CustomConsoleCommands\\obj\\",
+        "outputPath": "D:\\Developement\\C#\\CustomConsoleCommands\\CustomConsoleCommands\\CustomConsoleCommands\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thela\\AppData\\Roaming\\NuGet\\NuGet.Config",
